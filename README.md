@@ -8,11 +8,14 @@ Your Name, yourcontact@ucsd.edu
 
 The goal of this project is to use RNN to generate meaningful text. 
 The training data is especially important cause the generated text will be based on the training data. 
-I am planning use different fictions from different genre. ALthough the machine learning model will not produce meaningful text, 
-I want to test if the computer will generate similar writting style. 
+I am planning use different fictions from different genre as training data.
+ALthough the machine learning model will not produce meaningful text, I want to test if the computer will generate similar writting style. 
 
 I am going to pass some non-english speaking international masterpiece and english speaking masterpiece into the RNN learning model. 
 And check if I can tell the difference of each generated text.
+
+I will use the same seed for the same training model and feed into different fiction genres to see how different will be the outcome.
+The training model will be the same for each genre. however, if I have enough time, I will also try different training models.
 
 ## Model/Data
 
