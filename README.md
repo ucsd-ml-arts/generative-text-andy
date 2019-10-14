@@ -6,7 +6,8 @@ Your Name, yourcontact@ucsd.edu
 
 ## Abstract
 
-The goal of this project is to use RNN to generate meaningful text. 
+This project is going to use RNN to generate text base on different training data. 
+The goal of the project is to configure out if we can tell the generated text have different writting style from related genre.
 The training data is especially important cause the generated text will be based on the training data. 
 I am planning use different fictions from different genre as training data.
 ALthough the machine learning model will not produce meaningful text, I want to test if the computer will generate similar writting style. 
