@@ -6,7 +6,13 @@ Your Name, yourcontact@ucsd.edu
 
 ## Abstract
 
-Include your abstract here. This should be one paragraph clearly describing your concept, method, and results. This should tell us what architecture/approach you used. Also describe your creative goals, and whether you were successful in achieving them. Also could describe future directions.
+The goal of this project is to use RNN to generate meaningful text. 
+The training data is especially important cause the generated text will be based on the training data. 
+I am planning use different fictions from different genre. ALthough the machine learning model will not produce meaningful text, 
+I want to test if the computer will generate similar writting style. 
+
+I am going to pass some non-english speaking international masterpiece and english speaking masterpiece into the RNN learning model. 
+And check if I can tell the difference of each generated text.
 
 ## Model/Data
 
