@@ -1,6 +1,5 @@
 # Project 1 Generative Text
-
-Your Name, yourcontact@ucsd.edu
+Jiaye Wang    jiw609@ucsd.edu
 
 (Your teammate's contact info, if appropriate)
 
