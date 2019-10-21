@@ -31,9 +31,13 @@ The training model will be the same for each genre.
 - trained models: RNN
 - training data (or link to training data):
 
-http://www.gutenberg.org/cache/epub/3330/pg3330.txt')#The Analects of Confucius (from the Chinese Classics) by Confucius
+http://www.gutenberg.org/cache/epub/3330/pg3330.txt'
 
-'https://archive.org/stream/TheLittlePrince-English/littleprince_djvu.txt'#  the little prince
+The Analects of Confucius (from the Chinese Classics) by Confucius
+
+'https://archive.org/stream/TheLittlePrince-English/littleprince_djvu.txt'  
+
+the little prince
 
 ## Code
 
@@ -105,7 +109,6 @@ References to any papers, techniques, repositories you used:
 The Analects of Confucius (from the Chinese Classics) by Confucius
 
 'https://archive.org/stream/TheLittlePrince-English/littleprince_djvu.txt'
-TheLittlePrince-Englis
+TheLittlePrince-English
 
 
-- Blog posts
