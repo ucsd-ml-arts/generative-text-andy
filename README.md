@@ -35,6 +35,14 @@ http://www.gutenberg.org/cache/epub/3330/pg3330.txt'
 
 The Analects of Confucius (from the Chinese Classics) by Confucius
 
+-paper :
+Long Short-Term Memory RNN:
+https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43905.pdf
+
+Blog posts:
+Professor Twomey
+https://roberttwomey.github.io/ucsd-ml-art/
+
 'https://archive.org/stream/TheLittlePrince-English/littleprince_djvu.txt'  
 
 the little prince
