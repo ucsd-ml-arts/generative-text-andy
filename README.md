@@ -121,4 +121,13 @@ The Analects of Confucius (from the Chinese Classics) by Confucius
 'https://archive.org/stream/TheLittlePrince-English/littleprince_djvu.txt'
 TheLittlePrince-English
 
+Papers:
+
+Long Short Term Memory RNN
+https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43905.pdf
+
+Blog posts:
+Professor Twomey
+https://roberttwomey.github.io/ucsd-ml-art/
+
 
