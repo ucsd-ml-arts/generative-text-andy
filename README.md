@@ -55,8 +55,11 @@ Modern English writing style text generator--littleprince.ipynb
 
 
 ## Results
-The difference between these two generate text is huge. We can easily distinguish which genre is the generated text from.
+The difference between these two generate text is huge. We can easily distinguish which genre is the generated text from. We can easily tell the different tone between two generated text. The Analect generated text sounds like a translation from chinese whereas the Prince generated text sounds like a French writer. These two tones match the author of each text.
+
 The RNN ML model successfully learn the learning data's writting style. 
+
+I think this is considerable meaningful because now that machine model can mimic the style of different masterpiece, probably in the future we will be able to "add" the tone of a specific masterpiece to a plain text and bring that text a considerable aesthetic value. 
 
 ## sample output:
 
