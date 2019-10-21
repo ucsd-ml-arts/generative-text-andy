@@ -49,7 +49,7 @@ Your code for generating your project:
 
 Ancient Chinese writing style text generator--The Analects of Confucius.ipynb
 
-Modern English writing style text generator--littleprince.ipynb
+Modern French/English writing style text generator--littleprince.ipynb
 
 
 
