@@ -12,7 +12,7 @@ I am planning use different fictions from different genre as training data.
 ALthough the machine learning model will not produce meaningful text, I want to test if the computer will generate similar writting style. 
 
 I am going to pass some non-english speaking international masterpiece(The Analects of Confucius) and english speaking masterpiece into the RNN learning model (the little prince). 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Yaktocat](https://github.com/ucsd-ml-arts/generative-text-andy/blob/master/analect.jpg)
 
 The goal is to check if I can tell the difference of each generated text.
 
