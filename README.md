@@ -23,6 +23,7 @@ The training model will be the same for each genre.
 
 - trained models: RNN
 - training data (or link to training data):
+
 http://www.gutenberg.org/cache/epub/3330/pg3330.txt')#The Analects of Confucius (from the Chinese Classics) by Confucius
 
 'https://archive.org/stream/TheLittlePrince-English/littleprince_djvu.txt'#  the little prince
@@ -34,8 +35,8 @@ Your code for generating your project:
 - generative_code.py or generative_code.ipynb - your generation code
 
 ## Results
-
-- Documentation of your generative text in an effective form. A file with your generated text (.pdf, .doc, .txt). 
+The difference between these two generate text is huge. We can easily distinguish which genre is the generated text from.
+The RNN ML model successfully learn the learning data's writting style. 
 
 ## Technical Notes
 
@@ -43,7 +44,7 @@ I try to change different hyperparameters to make the outcome more meaningful. B
 
 It is also very interesting that if the epoch is too large; the model will over trained. It will keep output the same text line. Hence, a number of 50 will be enough. 
 
-## Reference
+
 
 References to any papers, techniques, repositories you used:
 - Papers
