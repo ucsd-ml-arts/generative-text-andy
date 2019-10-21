@@ -55,6 +55,8 @@ Ancient Chinese writing style text generator--The Analects of Confucius.ipynb
 
 Modern English writing style text generator--littleprince.ipynb
 
+I used 'He say' as the seed for the model because both training data have relevant text in them. The most reasonable output will be someone say something. There is a giant difference between the speaking style of ancient chinese and an native speaker. By comparing the difference between each outcome, the contrast will be highlighted.
+
 
 ## Results
 The difference between these two generate text is huge. We can easily distinguish which genre is the generated text from.
@@ -107,6 +109,8 @@ propriety; make no movernment?' and was answered, 'I am not you will not be fit 
 I try to change different hyperparameters to make the outcome more meaningful. By changing the temperture hypermeter low and embedding dim high, I am getting a more meaning ful text. The outcome difference between different trainning data is also more significant. 
 
 It is also very interesting that if the epoch is too large; the model will over trained. It will keep output the same text line. Hence, a number of 50 will be enough. 
+
+The code requires TensorFlow, NumPy and IPython libraries.  It is recommended to run the code on a platform/computer that has sufficient GPU power. It is because the training phase takes a lot of computing power.
 
 
 ## References
