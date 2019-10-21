@@ -38,12 +38,53 @@ http://www.gutenberg.org/cache/epub/3330/pg3330.txt')#The Analects of Confucius 
 ## Code
 
 Your code for generating your project:
-- training_code.py or training_code.ipynb - your training code
-- generative_code.py or generative_code.ipynb - your generation code
+Ancient Chinese writing style text generator--The Analects of Confucius.ipynb
+Modern English writing style text generator--littleprince.ipynb
 
 ## Results
 The difference between these two generate text is huge. We can easily distinguish which genre is the generated text from.
 The RNN ML model successfully learn the learning data's writting style. 
+
+Here is one sample output:
+The little prince:
+----------------------------------------------------------------------------------------------------------
+
+he say to him. I felt awkward and blundering. I did not know how to draw anything except boa constrictors 
+from the outside and boa constrictor in the act of swallowing an 
+animal. Here is a copy of the drawing. 
+
+In the morning where I came to the grown-ups, and asked them whether the drawing frightened them. 
+But they answered:Fright 
+save me so much to do! I am concerned with matters of consequence. I 
+dont amuse myself with bald, and the recollinise it was not 
+beauty that she wished to appear. Oh, yes! She was such a proud flower... 
+
+
+
+He found himself in the desert, and I had listened to the story 
+of the merchant as I was drinking the of 
+a little boy who is just like the grown-ups who 
+are no longer interested in matters of consequence. 
+
+The little prince went away, to look again at the roses. You are not at all like my rose, the little prince repeited said. 
+
+I shall look as if I were suffering. I shall look a little as if I were suffering. I shall look a little
+
+---------------------------------------------------------------------------------------------------------------
+The Analects of Confucius (from the Chinese Classics)
+------------------------------------------------------------------------------------------------------------
+he saying, "It is not this being beneficent without
+great expenditure? When the man of high station is well instructed, he loves millen the arree was answered, 'Baithere like a would not walk on foot to get a
+shell for him, but I say that he walks shoulder to
+shoulder with his sovereign, I believe he was not straight, he did not sit of multies, he is aware of that.'
+        CHAP. XIII. The Master said, 'Shan, my doctrine is that of an
+all-pervading upon the land, but neither of them did
+a former wickednesses of men in mind, and hence the
+resentments directed towards them were four things from which the Master was
+entirely free. He had no foregone conclusions, no arbitr frme from the world all the stars turn towards it.'
+        CHAP. III. The Master said, 'The superior man has nine things
+which are subjects with him of thoughtful contrary to propriety; speak not what is contrary to
+propriety; make no movernment?' and was answered, 'I am not you will not be fit to converse with." I
 
 ## Technical Notes
 
