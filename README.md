@@ -97,9 +97,15 @@ I try to change different hyperparameters to make the outcome more meaningful. B
 It is also very interesting that if the epoch is too large; the model will over trained. It will keep output the same text line. Hence, a number of 50 will be enough. 
 
 
+## References
 
 References to any papers, techniques, repositories you used:
-- Papers
-  - [This is a paper](this_is_the_link.pdf)
-- Repositories
+
+- text website link:'http://www.gutenberg.org/cache/epub/3330/pg3330.txt'
+The Analects of Confucius (from the Chinese Classics) by Confucius
+
+'https://archive.org/stream/TheLittlePrince-English/littleprince_djvu.txt'
+TheLittlePrince-Englis
+
+
 - Blog posts
