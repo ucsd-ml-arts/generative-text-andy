@@ -38,14 +38,18 @@ http://www.gutenberg.org/cache/epub/3330/pg3330.txt')#The Analects of Confucius 
 ## Code
 
 Your code for generating your project:
+
 Ancient Chinese writing style text generator--The Analects of Confucius.ipynb
+
 Modern English writing style text generator--littleprince.ipynb
+
 
 ## Results
 The difference between these two generate text is huge. We can easily distinguish which genre is the generated text from.
 The RNN ML model successfully learn the learning data's writting style. 
 
-Here is one sample output:
+## sample output:
+
 The little prince:
 ----------------------------------------------------------------------------------------------------------
 
