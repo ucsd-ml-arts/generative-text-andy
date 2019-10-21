@@ -11,7 +11,7 @@ The training data is especially important cause the generated text will be based
 I am planning use different fictions from different genre as training data.
 ALthough the machine learning model will not produce meaningful text, I want to test if the computer will generate similar writting style. 
 
-I am going to pass some non-english speaking international masterpiece(The Analects of Confucius) and english speaking masterpiece into the RNN learning model (the little prince). 
+I am going to pass some Eastern masterpiece(The Analects of Confucius) and Western masterpiece into the RNN learning model (the little prince). 
 
 
 ![Image of confusi](https://github.com/ucsd-ml-arts/generative-text-andy/blob/master/analect.jpg)
@@ -19,6 +19,7 @@ I am going to pass some non-english speaking international masterpiece(The Anale
 
 
 
+The reason of me choosing these two masterpiece is because the Analects is the most representative ancient chinese masterpiece, and the tone in the Analect is also the most traditional ancient chinese speaking style. For the reason of me choosing The Little Prince as another training text is because its writer is from french. His writing style will be the combination of French and English. Hence the difference will be more interesting. 
 
 The goal is to check if I can tell the difference of each generated text.
 
