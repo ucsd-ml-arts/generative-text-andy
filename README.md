@@ -1,7 +1,7 @@
 # Project 1 Generative Text
 Jiaye Wang    jiw609@ucsd.edu
 
-(Your teammate's contact info, if appropriate)
+
 
 ## Abstract
 
@@ -11,17 +11,20 @@ The training data is especially important cause the generated text will be based
 I am planning use different fictions from different genre as training data.
 ALthough the machine learning model will not produce meaningful text, I want to test if the computer will generate similar writting style. 
 
-I am going to pass some non-english speaking international masterpiece and english speaking masterpiece into the RNN learning model. 
-And check if I can tell the difference of each generated text.
+I am going to pass some non-english speaking international masterpiece(The Analects of Confucius) and english speaking masterpiece into the RNN learning model. 
 
-I will use the same seed for the same training model and feed into different fiction genres to see how different will be the outcome.
-The training model will be the same for each genre. however, if I have enough time, I will also try different training models.
+The goal is to check if I can tell the difference of each generated text.
+
+I will use the same seed and the same training model for different fiction genres to see how different will be the outcome.
+The training model will be the same for each genre. 
 
 ## Model/Data
 
-Briefly describe the files that are included with your repository:
-- trained models
-- training data (or link to training data). what is your corpus?
+
+- trained models: RNN
+- training data (or link to training data):
+http://www.gutenberg.org/cache/epub/3330/pg3330.txt')#The Analects of Confucius (from the Chinese Classics) by Confucius
+'https://archive.org/stream/TheLittlePrince-English/littleprince_djvu.txt'#  the little prince
 
 ## Code
 
@@ -35,9 +38,7 @@ Your code for generating your project:
 
 ## Technical Notes
 
-Any implementation details or notes we need to repeat your work. 
-- Does this code require other pip packages, software, etc?
-- Does it run on some other (non-datahub) platform? (CoLab, etc.)
+I try to change different hyperparameters to make the outcome more meaningful. By changing the temperture hypermeter low and embedding dim high, I am getting a more meaning ful text. The outcome difference between different trainning data is also more significant. 
 
 ## Reference
 
