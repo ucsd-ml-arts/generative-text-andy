@@ -25,6 +25,8 @@ The goal is to check if I can tell the difference of each generated text.
 I will use the same seed and the same training model for different fiction genres to see how different will be the outcome.
 The training model will be the same for each genre. 
 
+I used 'He say' as the seed for the model because both training data have relevant text in them. The most reasonable output will be someone say something. There is a giant difference between the speaking style of ancient chinese and an native speaker. By comparing the difference between each outcome, the contrast will be highlighted.
+
 ## Model/Data
 
 
@@ -35,13 +37,7 @@ http://www.gutenberg.org/cache/epub/3330/pg3330.txt'
 
 The Analects of Confucius (from the Chinese Classics) by Confucius
 
--paper :
-Long Short-Term Memory RNN:
-https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43905.pdf
 
-Blog posts:
-Professor Twomey
-https://roberttwomey.github.io/ucsd-ml-art/
 
 'https://archive.org/stream/TheLittlePrince-English/littleprince_djvu.txt'  
 
@@ -55,7 +51,7 @@ Ancient Chinese writing style text generator--The Analects of Confucius.ipynb
 
 Modern English writing style text generator--littleprince.ipynb
 
-I used 'He say' as the seed for the model because both training data have relevant text in them. The most reasonable output will be someone say something. There is a giant difference between the speaking style of ancient chinese and an native speaker. By comparing the difference between each outcome, the contrast will be highlighted.
+
 
 
 ## Results
